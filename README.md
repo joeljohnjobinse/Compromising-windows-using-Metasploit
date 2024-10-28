@@ -48,6 +48,7 @@ On the target Windows machine, open a Web browser and open this URL, replacing t
 Bypass any warning boxes, double-click the file, and allow it to run.
 
 On kali give the command exploit
+
 ![exp6_8](https://github.com/user-attachments/assets/656d275c-175e-4460-8809-07b9de09b03c)
 
 To see a list of processes, at the meterpreter > prompt, execute this command: ps ⇒ can see the fun.exe process running with pid 1156
