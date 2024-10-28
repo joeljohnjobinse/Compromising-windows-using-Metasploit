@@ -1,4 +1,4 @@
-![exp6_6](https://github.com/user-attachments/assets/614a1787-c3f6-4653-a922-3e2905d6d529)# Compromising-windows-using-Metasploit
+# Compromising-windows-using-Metasploit
 Compromising windows using Metasploit
 # Metasploit
 Compromising windows using Metasploit
