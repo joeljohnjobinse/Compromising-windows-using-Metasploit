@@ -61,6 +61,7 @@ Post Exploitation The target is now owned. Following are meterpreter commands fo
 ![exp6_10](https://github.com/user-attachments/assets/1378325a-be9d-42e8-9afd-04c46c2d0231)
 
 keyscan_dump Shows the keystrokes captured so far
+
 ![exp6_11](https://github.com/user-attachments/assets/269031dc-7a8d-43e0-aa51-11e62be30b25)
 
 ## RESULT:
